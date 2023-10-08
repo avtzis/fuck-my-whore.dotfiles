@@ -1,0 +1,1 @@
+/home/avtzis/.zsh/
